@@ -24,7 +24,7 @@ Engineer who delivered end-to-end solutions from conception to production deploy
 
 ## Key Projects
 
-### Wellytics Browser Extension (Sole Developer)
+### Wellytics Browser Extension 
 Built a Chrome Manifest V3 extension bridging clinical workflows with the Wellytics platform.
 
 *   Real-time audio transcription with chunk-based streaming
@@ -35,13 +35,13 @@ Built a Chrome Manifest V3 extension bridging clinical workflows with the Wellyt
 
 **Impact:** Eliminated double data entry workflows, saving 15-30 minutes per patient consultation
 
-### Health-Hub Platform (Frontend Developer)
+### Health-Hub Platform 
 
-*   Report generators for Pharmacogenomics, CNV analysis, Mitochondrial findings, Lab reports
-*   Orders & CRM module with test tracking and outsourcing lab management
-*   AI integrations (Cancer Agent, AI Copilot) with source reference traceability
-*   Appointments system with calendar view and batch-optimized patient data fetching
-*   Print templates with organization-specific configs and mobile PDF sharing
+*   **NextGen eHospital Integration:** Architected bidirectional government EHR integration with 8 Vue components and 8 composables using async pipeline orchestration. Implemented LLM-based clinical note extraction with Google Generative AI, SNOMED terminology matching, and service item mapping for automated medical data conversion between systems.
+*   **Orders & CRM System:** Built complete order management system with 2,034-line component handling concurrent operations, test status tracking, and pricing workflows. Implemented XLSX export with dynamic column width calculation and cross-store state composition using Pinia for reactive data flow across multiple stores.
+*   **Chunk-Based Speech-to-Text Transcription:** Implemented real-time audio transcription using Web Audio API and MediaRecorder with 45-second chunk streaming, 1KB silence filtering, and offscreen document architecture. Added async job polling and call context tracking for session management across the platform.
+*   **Appointments System with Performance Optimization:** Built calendar-based scheduling system from scratch supporting 100+ daily appointments. Optimized patient data fetching by replacing sequential API calls with batched async operations (Promise.all in batches of 10), significantly reducing load times. Used interval-based polling with proper cleanup and event-driven architecture via EventBus.
+*   **Critical Production Fixes:** Fixed environment isolation bug where all environments wrote to QA S3 bucket affecting data integrity across production systems. Eliminated memory leaks across 9 list components with proper lifecycle management (onBeforeUnmount hooks). Fixed order price calculation including cancelled tests and implemented AI cost optimization using cross-store composition to skip LLM calls for empty patients.
 
 ---
 
