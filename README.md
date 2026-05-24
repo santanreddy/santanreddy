@@ -66,9 +66,7 @@ Built websites for small-scale businesses to increase their online presence and 
 *   **Frontend:** Vue 3 (Composition API), TypeScript, Nuxt 3, Pinia, Tailwind CSS
 *   **Extensions:** Chrome Manifest V3, Content Scripts, Service Workers
 *   **Audio/AI:** Web Audio API, Google Generative AI, MediaRecorder API
-*   **Documents:** pdfmake, JsBarcode, xlsx, TipTap
 *   **Infrastructure:** AWS S3, REST APIs, JWT Authentication
-*   **Medical:** SNOMED CT, ICD codes, ABHA ID (India's national health ID)
 
 ---
 
