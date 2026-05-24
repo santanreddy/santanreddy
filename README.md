@@ -25,7 +25,7 @@ Engineer who delivered end-to-end solutions from conception to production deploy
 ## Key Projects
 
 ### Wellytics Browser Extension (Sole Developer)
-Built from scratch in 35 days — a Chrome Manifest V3 extension bridging clinical workflows with the Wellytics platform.
+Built a Chrome Manifest V3 extension bridging clinical workflows with the Wellytics platform.
 
 *   Real-time audio transcription with chunk-based streaming
 *   AI-powered clinical note generation with structured review
@@ -36,11 +36,9 @@ Built from scratch in 35 days — a Chrome Manifest V3 extension bridging clinic
 **Impact:** Eliminated double data entry workflows, saving 15-30 minutes per patient consultation
 
 ### Health-Hub Platform (Frontend Developer)
-553 commits across 15+ modules including:
 
 *   Report generators for Pharmacogenomics, CNV analysis, Mitochondrial findings, Lab reports
 *   Orders & CRM module with test tracking and outsourcing lab management
-*   NextGen eHospital integration with LLM-based clinical note extraction
 *   AI integrations (Cancer Agent, AI Copilot) with source reference traceability
 *   Appointments system with calendar view and batch-optimized patient data fetching
 *   Print templates with organization-specific configs and mobile PDF sharing
