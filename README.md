@@ -1,14 +1,7 @@
-# Santan Reddy
-
-**Software Developer** at Wellytics AI
-*Building production healthcare SaaS platforms*
-
----
-
-## About
+# Santan Reddy - Software Developer
 
 Currently working as a Software Developer at Wellytics AI, building a production SaaS platform serving multiple enterprise clients with real-time data processing and complex system integrations.
-
+<!--
 Engineer who delivered end-to-end solutions from conception to production deployment. Architected and built a browser extension that solved a critical data synchronization problem, eliminating 15-30 minutes of manual work per workflow.
 
 ---
@@ -73,7 +66,7 @@ Built websites for small-scale businesses to increase their online presence and 
 ## Approach
 
 Passionate about building performant, scalable applications that solve real-world problems. Experienced in modern web technologies, real-time systems, AI integration, and creating intuitive interfaces that work reliably under high-load conditions.
-
+-->
 <!--
 **santanreddy/santanreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
