@@ -1,4 +1,4 @@
-# Santan Reddy - Software Developer
+# Santan Reddy
 
 Currently working as a Software Developer at Wellytics AI, building a production SaaS platform serving multiple enterprise clients with real-time data processing and complex system integrations.
 <!--
