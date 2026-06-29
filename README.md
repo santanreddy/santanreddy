@@ -2,14 +2,14 @@
 
 Currently working as a Software Developer at Wellytics AI, building a production SaaS platform serving multiple enterprise clients with real-time data processing and complex system integrations.
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://commit-history.com/santanreddy">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/santanreddy?theme=dark" />
       <img alt="santanreddy's commit history" src="https://commit-history.com/embed/santanreddy" />
     </picture>
   </a>
-</div>
+</div> -->
 <!--
 Engineer who delivered end-to-end solutions from conception to production deployment. Architected and built a browser extension that solved a critical data synchronization problem, eliminating 15-30 minutes of manual work per workflow.
 
